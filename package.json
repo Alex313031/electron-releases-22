@@ -16,7 +16,7 @@
     "node": ">= 12.20.55"
   },
   "name": "electron",
-  "version": "22.3.9",
+  "version": "22.3.27",
   "repository": "https://github.com/Alex313031/electron-releases-22",
   "description": "AVX optimized builds of Electron 22",
   "license": "MIT",
